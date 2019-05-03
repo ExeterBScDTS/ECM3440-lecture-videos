@@ -1,7 +1,6 @@
 {
     "document": {
-      "type": "PLAIN_TEXT",
-      "gcsContentUri": "gs://saun.by/narrator/type-hints.txt"
-    },
-    "encodingType": "UTF8"
+      "type": "HTML",
+      "gcsContentUri": "gs://saun.by/narrator/ECM3440 - Week 2 - Lesson 1 - Python type hints - Slides.pptx/ppt/notesSlides/notesSlide2.xml"
+    }
   }
