@@ -1,0 +1,7 @@
+{
+    "document": {
+      "type": "PLAIN_TEXT",
+      "gcsContentUri": "gs://saun.by/narrator/type-hints.txt"
+    },
+    "encodingType": "UTF8"
+  }
