@@ -13,3 +13,5 @@ Note that words and phrases likely to appear can be provided.  Need to do this w
 ## Google Cloud Natural Language API
 
 <https://cloud.google.com/natural-language/docs/reference/rest/v1beta2/documents/analyzeSyntax>
+
+<https://cloud.google.com/natural-language/docs/analyzing-syntax>
