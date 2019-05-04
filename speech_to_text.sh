@@ -1,6 +1,6 @@
 #!/bin/bash
 
-export GOOGLE_APPLICATION_CREDENTIALS="/home/mike/Downloads/IoC-Summer-School-256f4912409c.json"
+export GOOGLE_APPLICATION_CREDENTIALS="../credentials.json"
 
 curl -s -H "Content-Type: application/json" \
     -H "Authorization: Bearer "$(gcloud auth application-default print-access-token) \
